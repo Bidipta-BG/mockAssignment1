@@ -1,0 +1,17 @@
+{
+  "name": "assignment_10-11-22",
+  "version": "1.0.0",
+  "description": "This is a mock assignmet 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  }
+}
